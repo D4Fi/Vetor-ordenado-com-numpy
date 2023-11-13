@@ -1,0 +1,1 @@
+# Vetor-ordenado-com-numpy
